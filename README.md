@@ -1,4 +1,4 @@
-# Performance-and-Communication
+# Performance and Communication
 
 1. **Nombres y apellidos:** Carola Casais Recondo
 2. **Fecha:** Viernes 11 de diciembre de 2020
